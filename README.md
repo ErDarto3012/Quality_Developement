@@ -37,10 +37,9 @@ Sono **note operative** per lo studio e l’applicazione immediata nei progetti.
 ---
 
 ## Come scaricare la repository
-
 ```bash
 # Clona via HTTPS
-git clone https://github.com/<org-o-utente>/<repo>.git
+git clone https://github.com/ErDarto3012/Quality_Developement.git
 
 # Oppure via SSH (dopo aver configurato la chiave SSH su GitHub)
 git clone git@github.com:<org-o-utente>/<repo>.git
@@ -53,7 +52,6 @@ git status
 ```
 
 ## Comandi Git/GitHub essenziali
-
 ```bash
 # Configurazione globale
 git config --global user.name "Nome Cognome"
