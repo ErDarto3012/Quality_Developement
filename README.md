@@ -1,11 +1,11 @@
-# 🧩 Quality Development — Appunti del corso UNICT
+# Quality Development — Appunti del corso UNICT
 
 Questa repository raccoglie gli **appunti del corso UNICT _“Quality Development: how to properly write your project”_**, con esempi pratici, template riutilizzabili e workflow per migliorare **qualità del codice**, **automazione** e **rilascio**.  
 Sono **note operative** per lo studio e l’applicazione immediata nei progetti.
 
 ---
 
-## 📚 Lezioni e argomenti
+## Lezioni e argomenti
 
 ### 🔹 Lezione 1 — Terminale e Bash
 - Shell vs Bash vs Terminale, comandi base, script, variabili, redirezioni, pipe, alias, `.gitignore`.
@@ -36,7 +36,7 @@ Sono **note operative** per lo studio e l’applicazione immediata nei progetti.
 
 ---
 
-## 🧰 Come scaricare la repository
+## Come scaricare la repository
 
 ```bash
 # Clona via HTTPS
@@ -52,7 +52,7 @@ cd <repo>
 git status
 ```
 
-## 🧠 Comandi Git/GitHub essenziali
+## Comandi Git/GitHub essenziali
 
 ```bash
 # Configurazione globale
